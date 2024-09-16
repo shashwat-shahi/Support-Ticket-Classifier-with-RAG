@@ -1,5 +1,6 @@
 # Support Ticket Classification with RAG Model
 
+
 ## Description
 
 This project classifies support tickets into predefined categories as given in the task using a Retrieval-Augmented Generation (RAG) model. The RAG model uses Llama3.1-8B params with groq cloud to make accurate and context-aware classifications of the support tickets.
