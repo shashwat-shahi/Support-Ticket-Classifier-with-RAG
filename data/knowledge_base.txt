@@ -1,0 +1,5 @@
+Category 1 - Login Issues - Login issues often occur due to incorrect passwords or account lockouts.
+Category 2 - App Functionality - App crashes can be caused by outdated software or device incompatibility.
+Category 3 - Billing - Billing discrepancies may result from processing errors or duplicate transactions.
+Category 4 - Account Management - Account management includes tasks such as changing profile information, linking social media accounts, and managing privacy settings.
+Category 5 - Performance Issues - Performance issues can be related to device specifications, network connectivity, or app optimization.
